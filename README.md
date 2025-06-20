@@ -1,4 +1,4 @@
-# 📊 Atliq Hardware Sales Performance Analysis — End-to-End Reporting Project
+# 📊 Atliq Hardware Sales Performance Analysis P & L performance analysis — End-to-End Reporting Project
 
 This repository showcases my complete end-to-end Business Intelligence project where I analyzed sales performance for **Atliq Hardware**. The project involved **data collection, cleaning, modeling, DAX measure creation, and report generation** using Excel Power Pivot and Power Query.
 
